@@ -1,0 +1,11 @@
+D:\Repository\Solid_CleanCode\AppContatos\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Repository\Solid_CleanCode\AppContatos\Domain\bin\Debug\net8.0\Domain.dll
+D:\Repository\Solid_CleanCode\AppContatos\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Repository\Solid_CleanCode\AppContatos\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repository\Solid_CleanCode\AppContatos\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Repository\Solid_CleanCode\AppContatos\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Repository\Solid_CleanCode\AppContatos\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Repository\Solid_CleanCode\AppContatos\Domain\obj\Debug\net8.0\Domain.dll
+D:\Repository\Solid_CleanCode\AppContatos\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Repository\Solid_CleanCode\AppContatos\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Repository\Solid_CleanCode\AppContatos\Domain\obj\Debug\net8.0\ref\Domain.dll

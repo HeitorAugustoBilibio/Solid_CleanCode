@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "AppContatos.Controllers.ContatoController",
+    "Method": "Getall",
+    "RelativePath": "api/Contato/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppContatos.Controllers.ContatoController",
+    "Method": "Insert",
+    "RelativePath": "api/Contato/InsertContact",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Service.Dtos.ContatosDTo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
