@@ -1,57 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Repository\\Solid_CleanCode\\AppContatos\\",
+  "WorkspaceRootPath": "C:\\RepositoryH\\Solid_CleanCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1396B8D2-D72F-42E9-9028-B49666F0D9A4}|Service\\Service.csproj|d:\\repository\\solid_cleancode\\appcontatos\\service\\services\\contatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1396B8D2-D72F-42E9-9028-B49666F0D9A4}|Service\\Service.csproj|solutionrelative:service\\services\\contatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\RepositoryH\\Solid_CleanCode\\Infra.Data\\Migrations\\20250514002157_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infra.Data\\Migrations\\20250514002157_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1396B8D2-D72F-42E9-9028-B49666F0D9A4}|Service\\Service.csproj|d:\\repository\\solid_cleancode\\appcontatos\\service\\interfaces\\icontatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1396B8D2-D72F-42E9-9028-B49666F0D9A4}|Service\\Service.csproj|solutionrelative:service\\interfaces\\icontatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2721B053-1F2E-48FE-9FD9-0612639174B9}|AppContatos\\AppContatos.csproj|d:\\repository\\solid_cleancode\\appcontatos\\appcontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2721B053-1F2E-48FE-9FD9-0612639174B9}|AppContatos\\AppContatos.csproj|solutionrelative:appcontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B264319-42B5-439D-87E3-35E1846E0FC8}|Domain\\Domain.csproj|d:\\repository\\solid_cleancode\\appcontatos\\domain\\entities\\contatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B264319-42B5-439D-87E3-35E1846E0FC8}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\contatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F29E25B-97F8-478A-AC27-16EF8398A8B9}|Infra.Data\\Infra.Data.csproj|d:\\repository\\solid_cleancode\\appcontatos\\infra.data\\repositories\\contatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F29E25B-97F8-478A-AC27-16EF8398A8B9}|Infra.Data\\Infra.Data.csproj|solutionrelative:infra.data\\repositories\\contatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1396B8D2-D72F-42E9-9028-B49666F0D9A4}|Service\\Service.csproj|d:\\repository\\solid_cleancode\\appcontatos\\service\\dtos\\contatosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1396B8D2-D72F-42E9-9028-B49666F0D9A4}|Service\\Service.csproj|solutionrelative:service\\dtos\\contatosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F29E25B-97F8-478A-AC27-16EF8398A8B9}|Infra.Data\\Infra.Data.csproj|d:\\repository\\solid_cleancode\\appcontatos\\infra.data\\context\\contatocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F29E25B-97F8-478A-AC27-16EF8398A8B9}|Infra.Data\\Infra.Data.csproj|solutionrelative:infra.data\\context\\contatocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B264319-42B5-439D-87E3-35E1846E0FC8}|Domain\\Domain.csproj|d:\\repository\\solid_cleancode\\appcontatos\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{4B264319-42B5-439D-87E3-35E1846E0FC8}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B264319-42B5-439D-87E3-35E1846E0FC8}|Domain\\Domain.csproj|d:\\repository\\solid_cleancode\\appcontatos\\domain\\interfaces\\infra\\repositories\\icontatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B264319-42B5-439D-87E3-35E1846E0FC8}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\infra\\repositories\\icontatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1396B8D2-D72F-42E9-9028-B49666F0D9A4}|Service\\Service.csproj|d:\\repository\\solid_cleancode\\appcontatos\\service\\mappers\\contatomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1396B8D2-D72F-42E9-9028-B49666F0D9A4}|Service\\Service.csproj|c:\\repositoryh\\solid_cleancode\\service\\mappers\\contatomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1396B8D2-D72F-42E9-9028-B49666F0D9A4}|Service\\Service.csproj|solutionrelative:service\\mappers\\contatomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2721B053-1F2E-48FE-9FD9-0612639174B9}|AppContatos\\AppContatos.csproj|d:\\repository\\solid_cleancode\\appcontatos\\appcontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2721B053-1F2E-48FE-9FD9-0612639174B9}|AppContatos\\AppContatos.csproj|solutionrelative:appcontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1396B8D2-D72F-42E9-9028-B49666F0D9A4}|Service\\Service.csproj|c:\\repositoryh\\solid_cleancode\\service\\interfaces\\icontatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1396B8D2-D72F-42E9-9028-B49666F0D9A4}|Service\\Service.csproj|solutionrelative:service\\interfaces\\icontatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B264319-42B5-439D-87E3-35E1846E0FC8}|Domain\\Domain.csproj|d:\\repository\\solid_cleancode\\appcontatos\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F29E25B-97F8-478A-AC27-16EF8398A8B9}|Infra.Data\\Infra.Data.csproj|c:\\repositoryh\\solid_cleancode\\infra.data\\context\\contatocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F29E25B-97F8-478A-AC27-16EF8398A8B9}|Infra.Data\\Infra.Data.csproj|solutionrelative:infra.data\\context\\contatocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F29E25B-97F8-478A-AC27-16EF8398A8B9}|Infra.Data\\Infra.Data.csproj|c:\\repositoryh\\solid_cleancode\\infra.data\\repositories\\contatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F29E25B-97F8-478A-AC27-16EF8398A8B9}|Infra.Data\\Infra.Data.csproj|solutionrelative:infra.data\\repositories\\contatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B264319-42B5-439D-87E3-35E1846E0FC8}|Domain\\Domain.csproj|c:\\repositoryh\\solid_cleancode\\domain\\interfaces\\infra\\repositories\\icontatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B264319-42B5-439D-87E3-35E1846E0FC8}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\infra\\repositories\\icontatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B264319-42B5-439D-87E3-35E1846E0FC8}|Domain\\Domain.csproj|c:\\repositoryh\\solid_cleancode\\domain\\entities\\contatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B264319-42B5-439D-87E3-35E1846E0FC8}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\contatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B264319-42B5-439D-87E3-35E1846E0FC8}|Domain\\Domain.csproj|c:\\repositoryh\\solid_cleancode\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B264319-42B5-439D-87E3-35E1846E0FC8}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F29E25B-97F8-478A-AC27-16EF8398A8B9}|Infra.Data\\Infra.Data.csproj|d:\\repository\\solid_cleancode\\appcontatos\\infra.data\\infra.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{1396B8D2-D72F-42E9-9028-B49666F0D9A4}|Service\\Service.csproj|c:\\repositoryh\\solid_cleancode\\service\\services\\contatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1396B8D2-D72F-42E9-9028-B49666F0D9A4}|Service\\Service.csproj|solutionrelative:service\\services\\contatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1396B8D2-D72F-42E9-9028-B49666F0D9A4}|Service\\Service.csproj|c:\\repositoryh\\solid_cleancode\\service\\dtos\\contatosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1396B8D2-D72F-42E9-9028-B49666F0D9A4}|Service\\Service.csproj|solutionrelative:service\\dtos\\contatosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2721B053-1F2E-48FE-9FD9-0612639174B9}|AppContatos\\AppContatos.csproj|c:\\repositoryh\\solid_cleancode\\appcontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2721B053-1F2E-48FE-9FD9-0612639174B9}|AppContatos\\AppContatos.csproj|solutionrelative:appcontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2721B053-1F2E-48FE-9FD9-0612639174B9}|AppContatos\\AppContatos.csproj|c:\\repositoryh\\solid_cleancode\\appcontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2721B053-1F2E-48FE-9FD9-0612639174B9}|AppContatos\\AppContatos.csproj|solutionrelative:appcontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2721B053-1F2E-48FE-9FD9-0612639174B9}|AppContatos\\AppContatos.csproj|c:\\repositoryh\\solid_cleancode\\appcontatos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2721B053-1F2E-48FE-9FD9-0612639174B9}|AppContatos\\AppContatos.csproj|solutionrelative:appcontatos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B264319-42B5-439D-87E3-35E1846E0FC8}|Domain\\Domain.csproj|c:\\repositoryh\\solid_cleancode\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B264319-42B5-439D-87E3-35E1846E0FC8}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F29E25B-97F8-478A-AC27-16EF8398A8B9}|Infra.Data\\Infra.Data.csproj|c:\\repositoryh\\solid_cleancode\\infra.data\\infra.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8F29E25B-97F8-478A-AC27-16EF8398A8B9}|Infra.Data\\Infra.Data.csproj|solutionrelative:infra.data\\infra.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -62,179 +70,201 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ContatoRepository.cs",
-              "DocumentMoniker": "D:\\Repository\\Solid_CleanCode\\AppContatos\\Infra.Data\\Repositories\\ContatoRepository.cs",
-              "RelativeDocumentMoniker": "Infra.Data\\Repositories\\ContatoRepository.cs",
-              "ToolTip": "D:\\Repository\\Solid_CleanCode\\AppContatos\\Infra.Data\\Repositories\\ContatoRepository.cs",
-              "RelativeToolTip": "Infra.Data\\Repositories\\ContatoRepository.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAvwCAAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T01:49:18.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IContatoRepository.cs",
-              "DocumentMoniker": "D:\\Repository\\Solid_CleanCode\\AppContatos\\Domain\\Interfaces\\Infra\\Repositories\\IContatoRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\Infra\\Repositories\\IContatoRepository.cs",
-              "ToolTip": "D:\\Repository\\Solid_CleanCode\\AppContatos\\Domain\\Interfaces\\Infra\\Repositories\\IContatoRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\Infra\\Repositories\\IContatoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T01:34:16.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ContatoMapper.cs",
-              "DocumentMoniker": "D:\\Repository\\Solid_CleanCode\\AppContatos\\Service\\Mappers\\ContatoMapper.cs",
-              "RelativeDocumentMoniker": "Service\\Mappers\\ContatoMapper.cs",
-              "ToolTip": "D:\\Repository\\Solid_CleanCode\\AppContatos\\Service\\Mappers\\ContatoMapper.cs",
-              "RelativeToolTip": "Service\\Mappers\\ContatoMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T01:28:20.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ContatoService.cs",
-              "DocumentMoniker": "D:\\Repository\\Solid_CleanCode\\AppContatos\\Service\\Services\\ContatoService.cs",
-              "RelativeDocumentMoniker": "Service\\Services\\ContatoService.cs",
-              "ToolTip": "D:\\Repository\\Solid_CleanCode\\AppContatos\\Service\\Services\\ContatoService.cs*",
-              "RelativeToolTip": "Service\\Services\\ContatoService.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Title": "20250514002157_Inicial.cs",
+              "DocumentMoniker": "C:\\RepositoryH\\Solid_CleanCode\\Infra.Data\\Migrations\\20250514002157_Inicial.cs",
+              "RelativeDocumentMoniker": "Infra.Data\\Migrations\\20250514002157_Inicial.cs",
+              "ToolTip": "C:\\RepositoryH\\Solid_CleanCode\\Infra.Data\\Migrations\\20250514002157_Inicial.cs",
+              "RelativeToolTip": "Infra.Data\\Migrations\\20250514002157_Inicial.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T01:26:53.069Z",
+              "WhenOpened": "2025-05-14T00:21:57.704Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ContatosDTo.cs",
-              "DocumentMoniker": "D:\\Repository\\Solid_CleanCode\\AppContatos\\Service\\Dtos\\ContatosDTo.cs",
-              "RelativeDocumentMoniker": "Service\\Dtos\\ContatosDTo.cs",
-              "ToolTip": "D:\\Repository\\Solid_CleanCode\\AppContatos\\Service\\Dtos\\ContatosDTo.cs",
-              "RelativeToolTip": "Service\\Dtos\\ContatosDTo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T01:22:42.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IContatoService.cs",
-              "DocumentMoniker": "D:\\Repository\\Solid_CleanCode\\AppContatos\\Service\\Interfaces\\IContatoService.cs",
-              "RelativeDocumentMoniker": "Service\\Interfaces\\IContatoService.cs",
-              "ToolTip": "D:\\Repository\\Solid_CleanCode\\AppContatos\\Service\\Interfaces\\IContatoService.cs*",
-              "RelativeToolTip": "Service\\Interfaces\\IContatoService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T01:19:31.436Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ContatoController.cs",
-              "DocumentMoniker": "D:\\Repository\\Solid_CleanCode\\AppContatos\\AppContatos\\Controllers\\ContatoController.cs",
-              "RelativeDocumentMoniker": "AppContatos\\Controllers\\ContatoController.cs",
-              "ToolTip": "D:\\Repository\\Solid_CleanCode\\AppContatos\\AppContatos\\Controllers\\ContatoController.cs",
-              "RelativeToolTip": "AppContatos\\Controllers\\ContatoController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAhwBwAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T01:10:43.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Repository\\Solid_CleanCode\\AppContatos\\AppContatos\\Program.cs",
-              "RelativeDocumentMoniker": "AppContatos\\Program.cs",
-              "ToolTip": "D:\\Repository\\Solid_CleanCode\\AppContatos\\AppContatos\\Program.cs",
-              "RelativeToolTip": "AppContatos\\Program.cs",
+              "DocumentIndex": 7,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\RepositoryH\\Solid_CleanCode\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\RepositoryH\\Solid_CleanCode\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Domain\\Entities\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T01:10:22.886Z",
+              "WhenOpened": "2025-05-12T00:57:27.389Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ContatoContext.cs",
-              "DocumentMoniker": "D:\\Repository\\Solid_CleanCode\\AppContatos\\Infra.Data\\Context\\ContatoContext.cs",
-              "RelativeDocumentMoniker": "Infra.Data\\Context\\ContatoContext.cs",
-              "ToolTip": "D:\\Repository\\Solid_CleanCode\\AppContatos\\Infra.Data\\Context\\ContatoContext.cs",
-              "RelativeToolTip": "Infra.Data\\Context\\ContatoContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T01:00:04.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Contatos.cs",
-              "DocumentMoniker": "D:\\Repository\\Solid_CleanCode\\AppContatos\\Domain\\Entities\\Contatos.cs",
+              "DocumentMoniker": "C:\\RepositoryH\\Solid_CleanCode\\Domain\\Entities\\Contatos.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Contatos.cs",
-              "ToolTip": "D:\\Repository\\Solid_CleanCode\\AppContatos\\Domain\\Entities\\Contatos.cs",
+              "ToolTip": "C:\\RepositoryH\\Solid_CleanCode\\Domain\\Entities\\Contatos.cs",
               "RelativeToolTip": "Domain\\Entities\\Contatos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T00:57:28.498Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Infra.Data",
-              "DocumentMoniker": "D:\\Repository\\Solid_CleanCode\\AppContatos\\Infra.Data\\Infra.Data.csproj",
-              "RelativeDocumentMoniker": "Infra.Data\\Infra.Data.csproj",
-              "ToolTip": "D:\\Repository\\Solid_CleanCode\\AppContatos\\Infra.Data\\Infra.Data.csproj",
-              "RelativeToolTip": "Infra.Data\\Infra.Data.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-12T00:59:39.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Domain",
-              "DocumentMoniker": "D:\\Repository\\Solid_CleanCode\\AppContatos\\Domain\\Domain.csproj",
-              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
-              "ToolTip": "D:\\Repository\\Solid_CleanCode\\AppContatos\\Domain\\Domain.csproj",
-              "RelativeToolTip": "Domain\\Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-12T00:57:28.895Z",
+              "DocumentIndex": 3,
+              "Title": "ContatoContext.cs",
+              "DocumentMoniker": "C:\\RepositoryH\\Solid_CleanCode\\Infra.Data\\Context\\ContatoContext.cs",
+              "RelativeDocumentMoniker": "Infra.Data\\Context\\ContatoContext.cs",
+              "ToolTip": "C:\\RepositoryH\\Solid_CleanCode\\Infra.Data\\Context\\ContatoContext.cs",
+              "RelativeToolTip": "Infra.Data\\Context\\ContatoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:00:04.926Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "D:\\Repository\\Solid_CleanCode\\AppContatos\\Domain\\Entities\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\BaseEntity.cs",
-              "ToolTip": "D:\\Repository\\Solid_CleanCode\\AppContatos\\Domain\\Entities\\BaseEntity.cs",
-              "RelativeToolTip": "Domain\\Entities\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "C:\\RepositoryH\\Solid_CleanCode\\AppContatos\\Controllers\\ContatoController.cs",
+              "RelativeDocumentMoniker": "AppContatos\\Controllers\\ContatoController.cs",
+              "ToolTip": "C:\\RepositoryH\\Solid_CleanCode\\AppContatos\\Controllers\\ContatoController.cs",
+              "RelativeToolTip": "AppContatos\\Controllers\\ContatoController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAlwAwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T00:57:27.389Z",
+              "WhenOpened": "2025-05-12T01:10:43.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\RepositoryH\\Solid_CleanCode\\AppContatos\\appsettings.json",
+              "RelativeDocumentMoniker": "AppContatos\\appsettings.json",
+              "ToolTip": "C:\\RepositoryH\\Solid_CleanCode\\AppContatos\\appsettings.json",
+              "RelativeToolTip": "AppContatos\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T22:40:09.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IContatoService.cs",
+              "DocumentMoniker": "C:\\RepositoryH\\Solid_CleanCode\\Service\\Interfaces\\IContatoService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IContatoService.cs",
+              "ToolTip": "C:\\RepositoryH\\Solid_CleanCode\\Service\\Interfaces\\IContatoService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IContatoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:19:31.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContatoMapper.cs",
+              "DocumentMoniker": "C:\\RepositoryH\\Solid_CleanCode\\Service\\Mappers\\ContatoMapper.cs",
+              "RelativeDocumentMoniker": "Service\\Mappers\\ContatoMapper.cs",
+              "ToolTip": "C:\\RepositoryH\\Solid_CleanCode\\Service\\Mappers\\ContatoMapper.cs",
+              "RelativeToolTip": "Service\\Mappers\\ContatoMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:28:20.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContatoService.cs",
+              "DocumentMoniker": "C:\\RepositoryH\\Solid_CleanCode\\Service\\Services\\ContatoService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\ContatoService.cs",
+              "ToolTip": "C:\\RepositoryH\\Solid_CleanCode\\Service\\Services\\ContatoService.cs",
+              "RelativeToolTip": "Service\\Services\\ContatoService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwBoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:26:53.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContatosDTo.cs",
+              "DocumentMoniker": "C:\\RepositoryH\\Solid_CleanCode\\Service\\Dtos\\ContatosDTo.cs",
+              "RelativeDocumentMoniker": "Service\\Dtos\\ContatosDTo.cs",
+              "ToolTip": "C:\\RepositoryH\\Solid_CleanCode\\Service\\Dtos\\ContatosDTo.cs",
+              "RelativeToolTip": "Service\\Dtos\\ContatosDTo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:22:42.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\RepositoryH\\Solid_CleanCode\\AppContatos\\Program.cs",
+              "RelativeDocumentMoniker": "AppContatos\\Program.cs",
+              "ToolTip": "C:\\RepositoryH\\Solid_CleanCode\\AppContatos\\Program.cs",
+              "RelativeToolTip": "AppContatos\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwBYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:10:22.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IContatoRepository.cs",
+              "DocumentMoniker": "C:\\RepositoryH\\Solid_CleanCode\\Domain\\Interfaces\\Infra\\Repositories\\IContatoRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Infra\\Repositories\\IContatoRepository.cs",
+              "ToolTip": "C:\\RepositoryH\\Solid_CleanCode\\Domain\\Interfaces\\Infra\\Repositories\\IContatoRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Infra\\Repositories\\IContatoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:34:16.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContatoRepository.cs",
+              "DocumentMoniker": "C:\\RepositoryH\\Solid_CleanCode\\Infra.Data\\Repositories\\ContatoRepository.cs",
+              "RelativeDocumentMoniker": "Infra.Data\\Repositories\\ContatoRepository.cs",
+              "ToolTip": "C:\\RepositoryH\\Solid_CleanCode\\Infra.Data\\Repositories\\ContatoRepository.cs",
+              "RelativeToolTip": "Infra.Data\\Repositories\\ContatoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:49:18.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Infra.Data.csproj",
+              "DocumentMoniker": "C:\\RepositoryH\\Solid_CleanCode\\Infra.Data\\Infra.Data.csproj",
+              "RelativeDocumentMoniker": "Infra.Data\\Infra.Data.csproj",
+              "ToolTip": "C:\\RepositoryH\\Solid_CleanCode\\Infra.Data\\Infra.Data.csproj",
+              "RelativeToolTip": "Infra.Data\\Infra.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T00:59:39.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\RepositoryH\\Solid_CleanCode\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\RepositoryH\\Solid_CleanCode\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T00:57:28.895Z",
               "EditorCaption": ""
             }
           ]

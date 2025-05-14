@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using System.Reflection;
-using Domain.Entity;
+using Domain.Entities;
+
 
 namespace Infra.Data.Context;
 
@@ -10,8 +10,8 @@ public class ContatoContext : DbContext
 
     public DbSet<Contatos> Contatos { get; set; }
 
-    protected override void OnModelCreating(ModelBuilder modelBuilder)
-    {
+    //protected override void OnModelCreating(ModelBuilder modelBuilder)
+    //{
      
-    }
+    //}
 } 

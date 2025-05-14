@@ -9,3 +9,15 @@ D:\Repository\Solid_CleanCode\AppContatos\Domain\obj\Debug\net8.0\Domain.dll
 D:\Repository\Solid_CleanCode\AppContatos\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\Repository\Solid_CleanCode\AppContatos\Domain\obj\Debug\net8.0\Domain.pdb
 D:\Repository\Solid_CleanCode\AppContatos\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\RepositoryH\Solid_CleanCode\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\RepositoryH\Solid_CleanCode\Domain\bin\Debug\net8.0\Domain.dll
+C:\RepositoryH\Solid_CleanCode\Domain\bin\Debug\net8.0\Domain.pdb
+C:\RepositoryH\Solid_CleanCode\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepositoryH\Solid_CleanCode\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\RepositoryH\Solid_CleanCode\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\RepositoryH\Solid_CleanCode\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\RepositoryH\Solid_CleanCode\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\RepositoryH\Solid_CleanCode\Domain\obj\Debug\net8.0\Domain.dll
+C:\RepositoryH\Solid_CleanCode\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\RepositoryH\Solid_CleanCode\Domain\obj\Debug\net8.0\Domain.pdb
+C:\RepositoryH\Solid_CleanCode\Domain\obj\Debug\net8.0\ref\Domain.dll

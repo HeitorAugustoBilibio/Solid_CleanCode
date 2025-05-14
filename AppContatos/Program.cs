@@ -1,4 +1,9 @@
 
+using Domain.Interfaces.Infra.Repositories;
+using Infra.Data.Context;
+using Infra.Data.Repositories;
+using Microsoft.EntityFrameworkCore;
+
 namespace AppContatos
 {
     public class Program
@@ -7,12 +12,15 @@ namespace AppContatos
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
 
             builder.Services.AddControllers();
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+
+            builder.Services.AddScoped<IContatoRepository, ContatoRepository>();
+
+            builder.Services.AddDbContext<ContatoContext>(options =>
+                options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
             var app = builder.Build();
 

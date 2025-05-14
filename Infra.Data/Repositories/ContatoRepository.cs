@@ -1,12 +1,8 @@
-﻿using Domain.Entity;
+﻿using Domain.Entities;
 using Domain.Interfaces.Infra.Repositories;
 using Infra.Data.Context;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace Infra.Data.Repositories;
 

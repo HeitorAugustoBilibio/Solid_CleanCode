@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repository\\Solid_CleanCode\\AppContatos\\Infra.CrossCutting\\Infra.CrossCutting.csproj": {}
+    "C:\\RepositoryH\\Solid_CleanCode\\Infra.CrossCutting\\Infra.CrossCutting.csproj": {}
   },
   "projects": {
-    "D:\\Repository\\Solid_CleanCode\\AppContatos\\Infra.CrossCutting\\Infra.CrossCutting.csproj": {
+    "C:\\RepositoryH\\Solid_CleanCode\\Infra.CrossCutting\\Infra.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repository\\Solid_CleanCode\\AppContatos\\Infra.CrossCutting\\Infra.CrossCutting.csproj",
+        "projectUniqueName": "C:\\RepositoryH\\Solid_CleanCode\\Infra.CrossCutting\\Infra.CrossCutting.csproj",
         "projectName": "Infra.CrossCutting",
-        "projectPath": "D:\\Repository\\Solid_CleanCode\\AppContatos\\Infra.CrossCutting\\Infra.CrossCutting.csproj",
-        "packagesPath": "C:\\Users\\Heitor\\.nuget\\packages\\",
-        "outputPath": "D:\\Repository\\Solid_CleanCode\\AppContatos\\Infra.CrossCutting\\obj\\",
+        "projectPath": "C:\\RepositoryH\\Solid_CleanCode\\Infra.CrossCutting\\Infra.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\heitor_bilibio\\.nuget\\packages\\",
+        "outputPath": "C:\\RepositoryH\\Solid_CleanCode\\Infra.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Heitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\heitor_bilibio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

@@ -1,13 +1,9 @@
 ﻿using AutoMapper;
-using Domain.Entity;
+using Domain.Entities;
 using Domain.Interfaces.Infra.Repositories;
 using Service.Dtos;
 using Service.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace Service.Services;
 
@@ -33,17 +29,17 @@ class ContatoService : IContatoService
         throw new NotImplementedException();
     }
 
-    public async Task<IEnumerable<Contatos>> GetAll()
+    public async Task<IEnumerable<ContatosDTo>> GetAll()
     {
-        return await _contatoRepository.GetAll();
+        var contatos = await _contatoRepository.GetAll();
 
-        //return contatos.All(p => new ContatosDTo
-        //{
-        //    Name = p.Name,
-        //    Email = p.Email,
-        //    Celular = p.Telefone,
-        //    Instagram = p.Instagram
-        //});
+        return contatos.Select(p => new ContatosDTo
+        {
+            Name = p.Name,
+            Email = p.Email,
+            Celular = p.Telefone,
+            Instagram = p.Instagram
+        });
     }
 
     public async Task<bool> Insert(ContatosDTo model)
