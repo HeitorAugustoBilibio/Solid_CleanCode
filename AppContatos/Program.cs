@@ -3,6 +3,8 @@ using Domain.Interfaces.Infra.Repositories;
 using Infra.Data.Context;
 using Infra.Data.Repositories;
 using Microsoft.EntityFrameworkCore;
+using Service.Interfaces;
+using Service.Services;
 
 namespace AppContatos
 {
@@ -17,10 +19,14 @@ namespace AppContatos
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
-            builder.Services.AddScoped<IContatoRepository, ContatoRepository>();
 
             builder.Services.AddDbContext<ContatoContext>(options =>
                 options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+            builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
+            builder.Services.AddScoped<IContatoService, ContatoService>();
+            builder.Services.AddScoped<IContatoRepository, ContatoRepository>();
 
             var app = builder.Build();
 

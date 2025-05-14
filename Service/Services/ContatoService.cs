@@ -7,7 +7,7 @@ using Service.Interfaces;
 
 namespace Service.Services;
 
-class ContatoService : IContatoService
+public class ContatoService : IContatoService
 {
     private readonly IMapper _mapper;
     private readonly IContatoRepository _contatoRepository;
